@@ -1,0 +1,2 @@
+# richard
+code learning
